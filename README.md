@@ -1,10 +1,9 @@
 # Stocks
 
-Db = clickHouse or mysql ?
+Db = clickHouse and mysql.
 
-application language = ?
+application language = java spring boot + hybernate + kafka
 
-frount end = ?
+frount end = ?(android)
 
 ML language = python
-`
